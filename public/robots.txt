@@ -1,5 +1,6 @@
 # Default Settings
 User-agent: *
+Content-Signal: search=yes, ai-input=no, ai-train=no
 
 # Pages that bots are allowed to visit
 Allow: /$
@@ -7,6 +8,8 @@ Allow: /about$
 Allow: /accessibility$
 Allow: /blog
 Allow: /brand$
+Allow: /leaderboard/likes$
+Allow: /noodles
 Allow: /pds$
 Allow: /privacy$
 Allow: /translation-status$
