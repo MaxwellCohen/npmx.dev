@@ -7,7 +7,7 @@ Allow: /about$
 Allow: /accessibility$
 Allow: /blog
 Allow: /brand$
-Allow: /leaderboard/likes$
+Allow: /leaderboard/likes
 Allow: /noodles
 Allow: /pds$
 Allow: /privacy$
